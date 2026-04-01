@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parv Rathee</h1>
-<h3 align="center">A passionate Python Developer <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/>
+<h3 align="center">A passionate Python Developer <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/>
 </a> from India 🇮🇳</h3>
 
 <p align="left">
