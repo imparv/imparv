@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Python & Flask Projects ⚡**
+- 🔭 I’m currently working on **Python & Flask Projects <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="30" height="30"/>**
 
 - 🌱 I’m currently learning **Advanced Python, Backend Development & AI 🤖**
 
